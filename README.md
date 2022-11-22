@@ -1,4 +1,4 @@
-# Amazon-Reviews-using-Sentiment-Analysis
+# Consumer-Reviews-Sentiment-Analysis
 Applying sentiment analysis on Amazon's product reviews.
 
 **If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_](https://nbviewer.org/github/divyanshu887/Amazon-Reviews-using-Sentiment-Analysis/blob/main/Sentiment%20analysis%20on%20Amazon%27s%20product%20reviews.ipynb).**
@@ -15,8 +15,3 @@ I have also provided the direct link below if you wish to view the dataset I use
     https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib and Scikit-Learn.
-
-
-
-
-## Do Give a ⭐ if you like it 
